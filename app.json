@@ -43,6 +43,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "83a47142-a5c4-4909-a6d7-5821cfca0879"
+      }
+    },
+    "owner": "iphone-apps"
   }
 }
